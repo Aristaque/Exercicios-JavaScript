@@ -8,7 +8,7 @@ console.log(teste);
 
 var meuPrimeiroNome = 'Jeferson';
 
-console.log('meuPrimeiroNome'); //camelCase
+console.log(meuPrimeiroNome); //camelCase
 
 let testando = 1;
 const ola = 2;
